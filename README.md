@@ -133,7 +133,7 @@ Be sure to rehearse and time your presentation before class.
 ---
 
 ### Rubric
-Your local instructor will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
+Your instructors will evaluate your project (for the most part) using the following criteria.  You should make sure that you consider and/or follow most if not all of the considerations/recommendations outlined below **while** working through your project.
 
 **Scores will be out of 21 points based on the 7 items in the rubric.** <br>
 *3 points per section*<br>
